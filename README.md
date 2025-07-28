@@ -1,4 +1,4 @@
-🗨️ UDP Chat Application
+#🗨️ UDP Chat Application
 A simple client-server based chat application that uses UDP (User Datagram Protocol) for sending and receiving messages. This app demonstrates basic socket programming using datagram sockets, ideal for understanding real-time communication over unreliable transport.
 
 📌 Features
